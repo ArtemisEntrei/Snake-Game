@@ -5,7 +5,7 @@ I was bored and wanted a cool snake game with a few added features. This app all
 - CLI - Command Line interface.
  
  * How to run game *
- - Download the source code and run it in th terminal using python.
+ - Download the source code and run it in the terminal using python.
  - Copy and Paste the source code into a file and running it in terminal (also works)
 
 * Extra Details *
