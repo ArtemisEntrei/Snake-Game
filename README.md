@@ -3,6 +3,7 @@ I was bored and wanted a cool snake game with a few added features. This app all
 * Reqiurements to run the game *
 - Python (3 or later perfered)
 - CLI - Command Line interface.
+- pygame is required.
  
  * How to run game *
  - Download the source code and run it in the terminal using python.
