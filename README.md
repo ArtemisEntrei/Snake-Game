@@ -4,9 +4,13 @@ I wanted to spice up a classic Snake game with a few unique twists, so I created
 - Python 3 or later (preferably with pip installed)
 - CLI (Command Line Interface)
 - Pygame library (Install via pip install pygame)
+
+
  How to Run the Game:
 - Download the source code and run it through your terminal using Python.
 - Alternatively, you can copy and paste the source code into a file and run it in the terminal.
+
+
  Extra Details:
 - Some of the ideas used were developed with ChatGPT as an experiment.
 - Feel free to reach out with ideas! I'd love to explore new features.
