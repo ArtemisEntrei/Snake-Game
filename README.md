@@ -16,3 +16,9 @@ I wanted to spice up a classic Snake game with a few unique twists, so I created
 - Feel free to reach out with ideas! I'd love to explore new features.
 - Fork the project and make it your own!
 - You can use pyinstaller to turn this game into an executable (.exe) or app for Windows, macOS, Linux, etc. I wanted to keep the code readable and easy to modify.
+
+ Updates
+~1.1 -> ~1.3
+- Added milestones for games played. Players will be rewarded at games played milestones with unique skins (More infor in statistics page on main menu).
+- Added a skin for the snakes head to easily distinguish it between body.
+- Refined color logic for game optimization.
