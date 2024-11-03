@@ -22,3 +22,17 @@ I wanted to spice up a classic Snake game with a few unique twists, so I created
 - Added milestones for games played. Players will be rewarded at games played milestones with unique skins (More infor in statistics page on main menu).
 - Added a skin for the snakes head to easily distinguish it between body.
 - Refined color logic for game optimization.
+
+
+
+###Security Notice### Please be aware that this application is not digitally signed, which may result in security warnings when you attempt to run it. Downloading and using the application is at your own discretion. For full transparency and peace of mind, the complete source code is available within this repository, allowing you to review and verify its functionality.
+
+Running the Application on Windows
+After downloading 'SnakeGame-1.3.exe', you might encounter a security warning from Windows Defender SmartScreen.
+
+To Run the Application:
+
+Double-click the 'SnakeGame-1.3.exe' file.
+In the SmartScreen warning dialog, click on "More info".
+Click on "Run anyway" to launch the application.
+Note: This warning appears because the application is not digitally signed. Ensure you trust the source before proceeding.
