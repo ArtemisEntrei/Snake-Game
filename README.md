@@ -27,12 +27,15 @@ I wanted to spice up a classic Snake game with a few unique twists, so I created
 
 ###Security Notice### Please be aware that this application is not digitally signed, which may result in security warnings when you attempt to run it. Downloading and using the application is at your own discretion. For full transparency and peace of mind, the complete source code is available within this repository, allowing you to review and verify its functionality.
 
-Running the Application on Windows
+## Running the Application on Windows
+
 After downloading 'SnakeGame-1.3.exe', you might encounter a security warning from Windows Defender SmartScreen.
 
-To Run the Application:
+**To Run the Application:**
 
-Double-click the 'SnakeGame-1.3.exe' file.
-In the SmartScreen warning dialog, click on "More info".
-Click on "Run anyway" to launch the application.
-Note: This warning appears because the application is not digitally signed. Ensure you trust the source before proceeding.
+1. Double-click the 'SnakeGame-1.3.exe' file.
+2. In the SmartScreen warning dialog, click on **"More info"**.
+3. Click on **"Run anyway"** to launch the application.
+
+**Note:** This warning appears because the application is not digitally signed. Ensure you trust the source before proceeding.
+
